@@ -10,6 +10,12 @@ Investigar y retocar el codigo css para que eso suceda.
 
 Tambien necesitamos hacer que la página cambie sus imágenes y los links sean todos válidos.
 
+## ¿Cómo arrancamos?
+Para hacerlo primero vas a tener que clonar el proyecto a tu disco con el siguiente comando:
+  `git clone https://github.com/matiasrios/tp_desarrollo_web.git`
+
+Esto va a descargar el proyecto en una carpeta con el nombre tp_desarrollo_web 
+
 Esperamos que puedas resolverlo. 
 
 Saludos
